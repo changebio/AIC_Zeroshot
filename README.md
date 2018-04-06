@@ -12,7 +12,7 @@ resnet, mobilenet v2
 ### 2, train an object detection model (*)
 
 
-### 3, image to attributes
+### 3, image to attributes (**)
 
 - average attributes by top k prob
 
@@ -21,4 +21,4 @@ resnet, mobilenet v2
 - remove fully connection layer of image classification model, finetune it to an image attributes model.
 
 
-### 4, similarity between two categories by attribute metric
+### 4, similarity between two categories by attribute metric (**)
